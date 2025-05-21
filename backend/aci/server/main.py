@@ -23,7 +23,7 @@ from aci.server.routes import (
     analytics,
     app_configurations,
     apps,
-    #billing,
+    billing,
     functions,
     health,
     linked_accounts,
